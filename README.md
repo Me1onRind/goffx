@@ -1,5 +1,5 @@
 # goffx
-goffx is a pure go implementation of Format-preserving, Feistel-based encryption (FFX) from https://github.com/emulbreh/pyffx
+goffx is a pure go implementation of Format-preserving, Feistel-based encryption (FFX) from https://github.com/emulbreh/pyffx.
 
 Only support sha1 at present. It's no difficult to add other encryption algorithms.
 
